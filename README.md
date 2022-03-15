@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm @lesserhatch. I am an embedded linux software engineer by day and elixir and ethereum wizard by night.
+Hi, I'm @lesserhatch. I am an embedded linux software engineer by day and elixir/ethereum wizard by night.
 
 Follow me:
 - Reddit: [/u/lesserhatch](//reddit.com/u/lesserhatch)
